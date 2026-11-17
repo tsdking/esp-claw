@@ -1,0 +1,362 @@
+.agents/skills/ask-matt/PHASE-BOUNDARIES.md
+  h_ea245bb0ff1813 1-55
+.agents/skills/ask-matt/SKILL.md
+  h_ea245bb0ff1813 1-90
+.agents/skills/ask-matt/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/claude-handoff/SKILL.md
+  h_ea245bb0ff1813 1-18
+.agents/skills/claude-handoff/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/code-review/SKILL.md
+  h_ea245bb0ff1813 1-87
+.agents/skills/code-review/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/codebase-design/DEEPENING.md
+  h_ea245bb0ff1813 1-37
+.agents/skills/codebase-design/DESIGN-IT-TWICE.md
+  h_ea245bb0ff1813 1-44
+.agents/skills/codebase-design/SKILL.md
+  h_ea245bb0ff1813 1-114
+.agents/skills/codebase-design/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/diagnosing-bugs/SKILL.md
+  h_ea245bb0ff1813 1-138
+.agents/skills/diagnosing-bugs/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/diagnosing-bugs/scripts/hitl-loop.template.sh
+  h_ea245bb0ff1813 1-44
+.agents/skills/domain-modeling/ADR-FORMAT.md
+  h_ea245bb0ff1813 1-47
+.agents/skills/domain-modeling/CONTEXT-FORMAT.md
+  h_ea245bb0ff1813 1-60
+.agents/skills/domain-modeling/SKILL.md
+  h_ea245bb0ff1813 1-74
+.agents/skills/domain-modeling/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/git-guardrails-claude-code/SKILL.md
+  h_ea245bb0ff1813 1-95
+.agents/skills/git-guardrails-claude-code/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/git-guardrails-claude-code/scripts/block-dangerous-git.sh
+  h_ea245bb0ff1813 1-25
+.agents/skills/grill-me/SKILL.md
+  h_ea245bb0ff1813 1-7
+.agents/skills/grill-me/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/grill-with-docs/SKILL.md
+  h_ea245bb0ff1813 1-7
+.agents/skills/grill-with-docs/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/grilling/SKILL.md
+  h_ea245bb0ff1813 1-28
+.agents/skills/grilling/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/handoff/SKILL.md
+  h_ea245bb0ff1813 1-16
+.agents/skills/handoff/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/implement-spec/SKILL.md
+  h_ea245bb0ff1813 1-35
+.agents/skills/implement-spec/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/implement/SKILL.md
+  h_ea245bb0ff1813 1-15
+.agents/skills/implement/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/improve-codebase-architecture/HTML-REPORT.md
+  h_ea245bb0ff1813 1-123
+.agents/skills/improve-codebase-architecture/SKILL.md
+  h_ea245bb0ff1813 1-71
+.agents/skills/improve-codebase-architecture/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/loop-me/SKILL.md
+  h_ea245bb0ff1813 1-32
+.agents/skills/loop-me/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/migrate-to-shoehorn/SKILL.md
+  h_ea245bb0ff1813 1-118
+.agents/skills/migrate-to-shoehorn/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/planning-with-files/SKILL.md
+  h_ea245bb0ff1813 1-506
+.agents/skills/planning-with-files/examples.md
+  h_ea245bb0ff1813 1-202
+.agents/skills/planning-with-files/reference.md
+  h_ea245bb0ff1813 1-218
+.agents/skills/planning-with-files/scripts/attest-plan.ps1
+  h_ea245bb0ff1813 1-511
+.agents/skills/planning-with-files/scripts/attest-plan.sh
+  h_ea245bb0ff1813 1-257
+.agents/skills/planning-with-files/scripts/check-complete.ps1
+  h_ea245bb0ff1813 1-270
+.agents/skills/planning-with-files/scripts/check-complete.sh
+  h_ea245bb0ff1813 1-287
+.agents/skills/planning-with-files/scripts/gate-stop.sh
+  h_ea245bb0ff1813 1-32
+.agents/skills/planning-with-files/scripts/init-session.ps1
+  h_ea245bb0ff1813 1-403
+.agents/skills/planning-with-files/scripts/init-session.sh
+  h_ea245bb0ff1813 1-447
+.agents/skills/planning-with-files/scripts/inject-plan.py
+  h_ea245bb0ff1813 1-1613
+.agents/skills/planning-with-files/scripts/inject-plan.sh
+  h_ea245bb0ff1813 1-1376
+.agents/skills/planning-with-files/scripts/ledger-append.ps1
+  h_ea245bb0ff1813 1-189
+.agents/skills/planning-with-files/scripts/ledger-append.sh
+  h_ea245bb0ff1813 1-346
+.agents/skills/planning-with-files/scripts/ledger-summary.ps1
+  h_ea245bb0ff1813 1-143
+.agents/skills/planning-with-files/scripts/ledger-summary.sh
+  h_ea245bb0ff1813 1-171
+.agents/skills/planning-with-files/scripts/phase-status.ps1
+  h_ea245bb0ff1813 1-247
+.agents/skills/planning-with-files/scripts/phase-status.sh
+  h_ea245bb0ff1813 1-212
+.agents/skills/planning-with-files/scripts/plan-doctor.sh
+  h_ea245bb0ff1813 1-170
+.agents/skills/planning-with-files/scripts/resolve-plan-dir.ps1
+  h_ea245bb0ff1813 1-245
+.agents/skills/planning-with-files/scripts/resolve-plan-dir.sh
+  h_ea245bb0ff1813 1-369
+.agents/skills/planning-with-files/scripts/session-catchup.py
+  h_ea245bb0ff1813 1-1000
+.agents/skills/planning-with-files/scripts/set-active-plan.ps1
+  h_ea245bb0ff1813 1-332
+.agents/skills/planning-with-files/scripts/set-active-plan.sh
+  h_ea245bb0ff1813 1-370
+.agents/skills/planning-with-files/scripts/skill-hook.sh
+  h_ea245bb0ff1813 1-465
+.agents/skills/planning-with-files/templates/analytics_findings.md
+  h_ea245bb0ff1813 1-67
+.agents/skills/planning-with-files/templates/analytics_task_plan.md
+  h_ea245bb0ff1813 1-81
+.agents/skills/planning-with-files/templates/findings.md
+  h_ea245bb0ff1813 1-47
+.agents/skills/planning-with-files/templates/loop.md
+  h_ea245bb0ff1813 1-37
+.agents/skills/planning-with-files/templates/progress.md
+  h_ea245bb0ff1813 1-58
+.agents/skills/planning-with-files/templates/task_plan.md
+  h_ea245bb0ff1813 1-89
+.agents/skills/planning-with-files/templates/task_plan_autonomous.md
+  h_ea245bb0ff1813 1-98
+.agents/skills/pr/CREDITS.md
+  h_ea245bb0ff1813 1-3
+.agents/skills/pr/SKILL.md
+  h_ea245bb0ff1813 1-168
+.agents/skills/pr/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/prototype/LOGIC.md
+  h_ea245bb0ff1813 1-67
+.agents/skills/prototype/SKILL.md
+  h_ea245bb0ff1813 1-26
+.agents/skills/prototype/UI.md
+  h_ea245bb0ff1813 1-112
+.agents/skills/prototype/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/research/SKILL.md
+  h_ea245bb0ff1813 1-12
+.agents/skills/research/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/resolving-merge-conflicts/SKILL.md
+  h_ea245bb0ff1813 1-14
+.agents/skills/resolving-merge-conflicts/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/retro/SKILL.md
+  h_ea245bb0ff1813 1-44
+.agents/skills/retro/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/scaffold-exercises/SKILL.md
+  h_ea245bb0ff1813 1-106
+.agents/skills/scaffold-exercises/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/setup-matt-pocock-skills/SKILL.md
+  h_ea245bb0ff1813 1-116
+.agents/skills/setup-matt-pocock-skills/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/setup-matt-pocock-skills/domain.md
+  h_ea245bb0ff1813 1-51
+.agents/skills/setup-matt-pocock-skills/issue-tracker-github.md
+  h_ea245bb0ff1813 1-45
+.agents/skills/setup-matt-pocock-skills/issue-tracker-gitlab.md
+  h_ea245bb0ff1813 1-46
+.agents/skills/setup-matt-pocock-skills/issue-tracker-local.md
+  h_ea245bb0ff1813 1-30
+.agents/skills/setup-matt-pocock-skills/triage-labels.md
+  h_ea245bb0ff1813 1-15
+.agents/skills/setup-pre-commit/SKILL.md
+  h_ea245bb0ff1813 1-91
+.agents/skills/setup-pre-commit/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/setup-ts-deep-modules/SKILL.md
+  h_ea245bb0ff1813 1-102
+.agents/skills/setup-ts-deep-modules/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/setup-ts-deep-modules/dependency-cruiser.config.cjs
+  h_ea245bb0ff1813 1-95
+.agents/skills/tdd/SKILL.md
+  h_ea245bb0ff1813 1-38
+.agents/skills/tdd/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/tdd/mocking.md
+  h_ea245bb0ff1813 1-59
+.agents/skills/tdd/tests.md
+  h_ea245bb0ff1813 1-77
+.agents/skills/teach/GLOSSARY-FORMAT.md
+  h_ea245bb0ff1813 1-35
+.agents/skills/teach/LEARNING-RECORD-FORMAT.md
+  h_ea245bb0ff1813 1-46
+.agents/skills/teach/MISSION-FORMAT.md
+  h_ea245bb0ff1813 1-31
+.agents/skills/teach/RESOURCES-FORMAT.md
+  h_ea245bb0ff1813 1-32
+.agents/skills/teach/SKILL.md
+  h_ea245bb0ff1813 1-140
+.agents/skills/teach/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/to-questionnaire/SKILL.md
+  h_ea245bb0ff1813 1-54
+.agents/skills/to-questionnaire/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/to-spec/SKILL.md
+  h_ea245bb0ff1813 1-75
+.agents/skills/to-spec/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/to-tickets/SKILL.md
+  h_ea245bb0ff1813 1-105
+.agents/skills/to-tickets/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/triage/AGENT-BRIEF.md
+  h_ea245bb0ff1813 1-207
+.agents/skills/triage/OUT-OF-SCOPE.md
+  h_ea245bb0ff1813 1-105
+.agents/skills/triage/SKILL.md
+  h_ea245bb0ff1813 1-112
+.agents/skills/triage/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/wait-what/SKILL.md
+  h_ea245bb0ff1813 1-7
+.agents/skills/wait-what/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/wayfinder/SKILL.md
+  h_ea245bb0ff1813 1-128
+.agents/skills/wayfinder/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/wizard/SKILL.md
+  h_ea245bb0ff1813 1-44
+.agents/skills/wizard/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/wizard/template.sh
+  h_ea245bb0ff1813 1-204
+.agents/skills/writing-beats/SKILL.md
+  h_ea245bb0ff1813 1-67
+.agents/skills/writing-beats/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/writing-for-agents/SKILL-MECHANICS.md
+  h_ea245bb0ff1813 1-22
+.agents/skills/writing-for-agents/SKILL.md
+  h_ea245bb0ff1813 1-81
+.agents/skills/writing-for-agents/agents/openai.yaml
+  h_ea245bb0ff1813 1-3
+.agents/skills/writing-fragments/SKILL.md
+  h_ea245bb0ff1813 1-79
+.agents/skills/writing-fragments/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.agents/skills/writing-shape/SKILL.md
+  h_ea245bb0ff1813 1-79
+.agents/skills/writing-shape/agents/openai.yaml
+  h_ea245bb0ff1813 1-5
+.gitignore
+  h_ea245bb0ff1813 3,7-9
+application/edge_agent/boards/agentnet/agentnet_s3_n16r8/board_devices.yaml
+  h_ea245bb0ff1813 1-2
+application/edge_agent/boards/agentnet/agentnet_s3_n16r8/board_info.yaml
+  h_ea245bb0ff1813 1-4
+application/edge_agent/boards/agentnet/agentnet_s3_n16r8/board_peripherals.yaml
+  h_ea245bb0ff1813 1-2
+application/edge_agent/boards/agentnet/agentnet_s3_n16r8/sdkconfig.defaults.board
+  h_ea245bb0ff1813 1-16
+application/edge_agent/boards/agentnet/agentnet_s3_n16r8/setup_device.c
+  h_ea245bb0ff1813 1-6
+application/edge_agent/components/agentnet_endpoint/CMakeLists.txt
+  h_ea245bb0ff1813 1-6
+application/edge_agent/components/agentnet_endpoint/agentnet_capabilities.c
+  h_ea245bb0ff1813 1-313
+application/edge_agent/components/agentnet_endpoint/agentnet_endpoint.c
+  h_ea245bb0ff1813 1-1610
+application/edge_agent/components/agentnet_endpoint/agentnet_ledger.c
+  h_ea245bb0ff1813 1-219
+application/edge_agent/components/agentnet_endpoint/idf_component.yml
+  h_ea245bb0ff1813 1-11
+application/edge_agent/components/agentnet_endpoint/include/agentnet_endpoint.h
+  h_ea245bb0ff1813 1-28
+application/edge_agent/components/agentnet_endpoint/include/agentnet_ledger.h
+  h_ea245bb0ff1813 1-19
+application/edge_agent/components/app_config/app_config.c
+  h_ea245bb0ff1813 37-40,44-45,71-76,148
+application/edge_agent/components/app_config/include/app_config.h
+  h_ea245bb0ff1813 28-33
+application/edge_agent/components/http_server/frontend_source/index.html
+  h_ea245bb0ff1813 7
+application/edge_agent/components/http_server/frontend_source/src/App.tsx
+  h_ea245bb0ff1813 32-34,271-273
+application/edge_agent/components/http_server/frontend_source/src/api/client.ts
+  h_ea245bb0ff1813 13-18,52,56-57
+application/edge_agent/components/http_server/frontend_source/src/components/layout/LanguageSwitcher.tsx
+  h_ea245bb0ff1813 1,33,40
+application/edge_agent/components/http_server/frontend_source/src/components/layout/Sidebar.tsx
+  h_ea245bb0ff1813 12,30,46,78,294,354-365
+application/edge_agent/components/http_server/frontend_source/src/components/layout/StatusBar.tsx
+  h_ea245bb0ff1813 6-9
+application/edge_agent/components/http_server/frontend_source/src/i18n/en.ts
+  h_ea245bb0ff1813 2-4,27,32,61-67,193,203-215
+application/edge_agent/components/http_server/frontend_source/src/i18n/zh-cn.ts
+  h_ea245bb0ff1813 4-6,29,34,62-68,188,197-209
+application/edge_agent/components/http_server/frontend_source/src/pages/BasicPage.tsx
+  h_ea245bb0ff1813 21-25,32,39-43,52-56,97-105,185-217
+application/edge_agent/components/http_server/frontend_source/src/pages/LlmPage.tsx
+  h_ea245bb0ff1813 71,76
+application/edge_agent/components/http_server/frontend_source/src/pages/ToolsPage.tsx
+  h_ea245bb0ff1813 1-75
+application/edge_agent/components/http_server/frontend_source/src/state/dirty.ts
+  h_ea245bb0ff1813 13,26
+application/edge_agent/components/http_server/http_server_assets.c
+  h_ea245bb0ff1813 24
+application/edge_agent/components/http_server/http_server_config_api.c
+  h_ea245bb0ff1813 45-51,355-367
+application/edge_agent/fatfs_image/system/scripts/agentnet/ble_advertise.lua
+  h_ea245bb0ff1813 1-22
+application/edge_agent/fatfs_image/system/scripts/agentnet/led_blink.lua
+  h_ea245bb0ff1813 1-23
+application/edge_agent/fatfs_image/system/scripts/agentnet/servo_set_angle.lua
+  h_ea245bb0ff1813 1-30
+application/edge_agent/main/idf_component.yml
+  h_ea245bb0ff1813 13-15
+application/edge_agent/main/main.c
+  h_ea245bb0ff1813 32,117-118,332,343-344,420-423
+components/claw_modules/claw_cap/include/claw_cap.h
+  h_ea245bb0ff1813 148,155-157
+components/claw_modules/claw_cap/src/claw_cap.c
+  h_ea245bb0ff1813 45,56,597,677-682,1310-1313,1332,1349-1350,1365,1395,1402-1415,1592-1607
+components/claw_modules/claw_core/src/llm/backends/claw_llm_backend_openai_compatible.c
+  h_ea245bb0ff1813 234-246
+components/claw_modules/claw_event_router/src/claw_event_router.c
+  h_ea245bb0ff1813 2201-2211
+docs/agentnet-esp.md
+  h_ea245bb0ff1813 1-118
+skills-lock.json
+  h_ea245bb0ff1813 1-233
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "791ae1bf5bc3254c9ec0a542bcdbc1b564e19872",
+  "prompts": {},
+  "humans": {
+    "h_ea245bb0ff1813": {
+      "author": "qifeng.xqf <qifeng.xqf@antgroup.com>"
+    }
+  }
+}
