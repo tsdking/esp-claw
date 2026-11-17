@@ -1,0 +1,1219 @@
+components/claw_capabilities/cap_app_mgr/skills/app_creator/scripts/resolve_apps_root.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-3
+components/lua_modules/lua_module_board_manager/lib/display_shape.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-91
+components/lua_modules/lua_module_image/test/image_file_convert.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 133-136,140
+components/lua_modules/lua_module_audio/src/audio_analyzer.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 138-139
+components/lua_modules/lua_module_ir/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,7-58,60,62-104,106-114,116-183,185-416
+components/lua_modules/lua_module_camera/src/camera_hal.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 30,957-993
+  s_3d3b1244736970::t_c83f198d441e6b 994
+components/lua_modules/lua_module_display/test/display_perf_contract.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-30
+components/lua_modules/lua_module_imu/src/mpu6050/mpu6050_backend.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 6,33,43-47,71,91,95,113,124,148
+pages/simulator/run-local.sh
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-82
+components/lua_modules/lua_module_imu/src/lua_module_imu.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 10,16,18,20-22,24,27-35,38-51,59-60,63-67,115,117-135,137-142,145,147-149,152,154-159,162,164-167,184,192,212,223,230,232-236,239,241-243,245,248,250-255,257-264,266-273,275-277,279-296,298-304,306-310,312-337,340-343,345
+components/lua_modules/lua_driver_mcpwm/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-39,42,45,47,52-53
+application/edge_agent/boards/espressif/esp_SensairShuttle/board_devices.yaml
+  s_3d3b1244736970::t_015edbc2ef6cb3 77-78
+components/lua_modules/lua_module_vision/src/vision_core_runtime.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-20
+components/claw_modules/claw_endpoint/test_host/include/host_compat.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-14
+components/lua_modules/lua_module_image/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 10-11
+tools/lua_lvgl_web_sim/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-54
+application/edge_agent/boards/espressif/esp_sparkbot/sdkconfig.defaults.board
+  s_3d3b1244736970::t_015edbc2ef6cb3 21
+components/lua_modules/lua_module_audio/test/audio_record_play_aac.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 6,20
+components/lua_modules/lua_module_ir/test/ir_capture_vectors.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-58
+pages/simulator/src/main.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 4,6,12,49,56,74,76,80,86,89-93,95,97-98,112,119,127,140,148-149,178-190,276,294,422-423,429,434-438,441,445,449,451,453,456-457,459,466-525,533,565-566,592-593,597,621-625
+components/claw_modules/claw_core/src/claw_core_llm.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 56,61,75,80,90,94-95,103-122,138-139,143-144,161,170,174
+components/lua_modules/lua_module_ir/src/port/ir_device.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-66
+components/claw_modules/claw_skill/include/claw_skill.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 17-18,28,32,50-52,64-65,72,77-78,87,102,104-105,107-109,123-125,129-130,132-136,178-179,181-184,190,193,195
+components/claw_capabilities/cap_scheduler/include/cap_scheduler.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 80
+components/claw_modules/claw_core/src/llm/backends/claw_llm_backend_openai_responses.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-15
+components/common/audio_hub/include/audio_hub.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-59
+components/lua_modules/lua_driver_ledc/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-60
+docs/src/content/docs/en/reference-project/dataflow-and-automation.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 91,247,250-258,261,264-265,277,279-280,292
+components/lua_modules/lua_module_magnetometer/src/bmm350/bmm350_backend.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 5,8-10,13,15,17,20,22-29,32,34-36,39,41-54,58,60-63,65-67,72-73,78,83,86,88,96,98,101-106
+components/lua_modules/lua_module_display/test/display_color_bars.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1,4,6-8,11-13,15,18-19,24,29-32,38,42,58,73,88,98,100,103,144,149,152,156-157,160,163
+tools/lua_lvgl_web_sim/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 17-20,71-79,82-83,96,101-105,107-109,112,115-116,121
+pages/simulator/src/app-parser.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-42
+components/claw_modules/claw_endpoint/test_host/include/freertos/FreeRTOS.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-4
+components/lua_modules/lua_module_vision/src/lua_module_vision.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 30,36-47
+components/lua_modules/lua_module_display/src/display_bitmap.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-41
+components/claw_modules/claw_core/test_apps/core_interrupt_test/main/test_app_main.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 159,161-167,374,376,381,554,585,593-595,603,606-611,953,1223,1234,1313
+tools/lua_lvgl_web_sim/sim/lua_audio_sim.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-41
+components/lua_modules/lua_driver_i2c/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 13-15,28-31,50,57-59,63
+components/lua_modules/lua_module_vision/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 15-23,32,34-38,62-70,74
+components/claw_capabilities/cap_system/src/cap_system.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 137
+components/claw_modules/claw_endpoint/test_host/include/esp_log.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5
+components/claw_modules/claw_utils/include/claw_utils_file.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-20
+components/claw_modules/claw_http/include/claw_http.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-30
+components/lua_modules/lua_module_display/test/display_contract.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-125
+components/common/lua_module_builder/.gitignore
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-3
+components/lua_modules/lua_driver_ledc/src/lua_driver_ledc.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-450
+components/lua_modules/lua_module_board_manager/lib/display_shape.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-63
+components/lua_modules/lua_module_ir/src/port/ir_device.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-451
+tools/font_subset/character.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-9
+application/edge_agent/components/http_server/http_server_webim_sessions.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-256
+application/edge_agent/fatfs_image/system/apps/flappybird/scripts/flappybird.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-739
+components/common/skill_builder/skills/skill_creator/scripts/resolve_skills_root.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-3
+components/lua_modules/lua_module_ir/protocols/haier.a6.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-13
+components/common/app_registry/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-9
+components/lua_modules/lua_module_ir/src/builtin/ir_builtin.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-46
+components/lua_modules/lua_module_sci/test/sci_read.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-20
+components/lua_modules/lua_module_magnetometer/test/magnetometer_read.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 34,54,56
+components/claw_modules/claw_memory/src/claw_memory.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 307,309-310
+components/claw_modules/claw_memory/src/claw_memory_internal.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 14-15,42,47
+components/lua_modules/lua_module_audio/src/lua_module_audio.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 27,52-61,74-75,77,89-91
+pages/simulator/src/types.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 4,15-23,39,49,55,58-59,62
+components/lua_modules/lua_module_display/src/display_raster.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-43
+components/lua_modules/lua_module_vision/test/camera_display_color.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 5-10,16,20-28,38,52,56,70,74-79,83,90,93-96,103,105,108-109,115,133-135,138-139,144-146,149,151,153,156-157,160,175,192-196,200,208,211-213,216
+components/lua_modules/lua_module_mqtt/test/mqtt_basic.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-43
+components/common/app_claw/Kconfig
+  s_3d3b1244736970::t_015edbc2ef6cb3 19-26,347,373-379,428,433,459
+components/lua_modules/lua_driver_mcpwm/src/lua_driver_mcpwm.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-9,14-15,17-18,21,31,46,55,62,77,100,102-105,107-109,112-125,127-133,135-138,143,145,148-160,163-164,166-174,177-178,180,184,189,193,196,201,208-209,211-219,224-225,229,231,234,236-238,240,243-250,252-262,287,292,299,305,311,323,335,340-342,353,355,358-359,370-373,381-383,391-393,400,410,417-418,421-434,436,443,453-457,460,464-465,467,502-511,513
+application/edge_agent/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 82
+components/lua_modules/lua_module_display/src/display_raster.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-478
+components/lua_modules/lua_module_ir/src/lua/lua_ir_common.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-124
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_style.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 67-95,115
+components/lua_modules/lua_module_sci/src/lua_module_sci.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 10,16-18,23,78-87,169,186,197,262,269-270,294-295,312,316,319,323,325-329,331-336,338-344,346-356,358-359,361-385,387-401,408-420,428-429,446,450,463,478,482,485,493-501,503-520,527-528,545-546,556,560,570,597,601,609,650-651,662,673,677,692,741,745,756,765,768,771-775,831
+application/edge_agent/components/app_config/app_config.c
+  s_3d3b1244736970::t_5c1d32efa1be7f 43,177-182
+  s_3d3b1244736970::t_015edbc2ef6cb3 12-14,17-22,35,58-59,80,88,103-104,130,132-147,149-150,153,156,158,160-162,164-166,169-171,174-176,183-185,188-191,227-236,339,349,366-367
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_events.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 197,203-205
+components/lua_modules/lua_driver_mcpwm/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 9-10
+components/lua_modules/lua_module_ir/test/ir_loopback.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-107
+components/common/app_claw/app_claw_cli.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,15
+application/edge_agent/components/http_server/frontend_source/src/components/layout/StatusBar.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,13,47
+components/claw_modules/claw_cap/src/claw_cap.c
+  s_3d3b1244736970::t_21d655032344ce 1609-1616,1619-1620,1624,1786
+  s_3d3b1244736970::t_015edbc2ef6cb3 14,57,75-76,89,96,148-149,637,640-648,652-662,682-683,687-688,697-701,703-705,1335-1341,1360,1377-1378,1393,1423-1424
+  s_3d3b1244736970::t_6dfb750802819c 1332-1334
+components/lua_modules/lua_module_ir/protocols/irext.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-77
+components/claw_modules/claw_core/src/claw_core_agent_loop.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 18-22,24-25,38-42,45,58,63,141,254,289,313-314,317,347,458
+components/claw_capabilities/cap_llm_config/src/cap_llm_config.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 15,31,47,58,66,69-71,84,94,97,116-117,119,253,258-260,313,317,320,324,331-337,431-448,509,515-516,607,634-662,677,682
+components/claw_capabilities/cap_router_mgr/skills/cap_router_mgr/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/claw_modules/claw_manager/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 5
+components/common/app_claw/tools/generate_board_resources.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-470
+components/lua_modules/lua_module_ir/protocols/LICENSE.IRext
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-22
+components/claw_modules/claw_endpoint/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-4
+components/common/app_registry/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-2
+components/lua_modules/lua_driver_uart/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-9,12,18,30,81-82
+components/claw_capabilities/cap_llm_config/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-9
+components/claw_modules/claw_core/src/llm/claw_llm_types.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 13,51-59,63,68,113
+components/lua_modules/lua_module_ir/lib/ir_remote.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-280
+components/lua_modules/lua_module_board_manager/src/lua_module_board_manager.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 10,14-23,57,59-64,66-71,75,79,81-85,94,98
+components/claw_capabilities/cap_scheduler/src/cap_scheduler_internal.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 45
+pages/simulator/src/app-bootstrap.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-22
+components/lua_modules/lua_module_camera/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-4,6-28,30,32,35-43,46-55,57-61,63,65-73,75-76,78,80-81,83,85,87,91-93,97,99-101,103,105,107-109,112-122,125-126,128,130,132-133,135,137-140,142-143,145,147-148,150-155,157,159-178,181-182,185
+components/lua_modules/lua_module_fuel_gauge/lib/lib_fuel_gauge.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 102-104
+components/common/audio_hub/src/audio_capture.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-667
+components/lua_modules/lua_module_environmental_sensor/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 2-5
+components/claw_modules/claw_endpoint/src/claw_endpoint.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-237
+components/claw_capabilities/cap_app_mgr/skills/app_creator/references/app-package-spec.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-59
+components/lua_modules/lua_module_audio/src/audio_converter.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 105-115
+components/lua_modules/lua_module_ir/src/core/ir_protocol.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-490
+components/lua_modules/lua_module_ir/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-17,19-24,27-28
+components/lua_modules/lua_module_ir/src/lua/lua_ir_frame.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-34
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_line.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-81
+application/edge_agent/fatfs_image/system/apps/dino/launcher.json
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-10
+components/claw_capabilities/cap_app_mgr/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5
+docs/src/content/docs/zh-cn/reference-core/claw-core.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 24,27-28,37-48,50
+.agents/spec/lua-module-spec.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7,47-49,65,72,86,109-118,148,154
+tools/lua_lvgl_web_sim/sim/compat/display_service.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5,22-37,50,53,55,57,59,61,63-65,69-96,106
+components/common/skill_builder/skills/skill_creator/references/skill-package-spec.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-95
+components/lua_modules/lua_module_ir/test/ir_remote_lib.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-162
+application/edge_agent/boards/espressif/esp_vocat_board_v1_2/setup_imu.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-61
+components/lua_modules/lua_module_audio/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 6-9
+components/claw_capabilities/cap_lua/include/cap_lua_hw.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-23
+components/claw_modules/claw_endpoint/test_host/run_tests.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-47
+tools/font_subset/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 28-29,33-48
+  s_3d3b1244736970::t_ed5b2fa4a3a91b 49
+components/lua_modules/lua_module_vision/test/camera_display_motion.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 4-9,16,32,51-57,64,66,72,95-97,100-101,106-108,111,113,115,118-119,122,137,155-159,163,171,174-176,179
+docs/src/content/docs/zh-cn/tutorial/skills-lab.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 27
+components/claw_capabilities/cap_scheduler/skills/cap_scheduler/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/lua_modules/lua_driver_mcpwm/test/mcpwm_loopback.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-78
+application/edge_agent/components/app_config/include/app_config.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 36,44,58-59
+components/claw_capabilities/cap_lua/src/cap_lua_async.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 480,1593
+components/lua_modules/lua_module_ir/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 3
+components/lua_modules/lua_module_magnetometer/src/lua_module_magnetometer.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 8,12,18,20,22-27,41-48,52,54-64,67,69,72-79,82-83,85-86,88-97,99,102,104-111,113-121,124-127,130,132-134,137,139-144,147,149-162,165-167,191,205,207-209,211-213,215-218,220-221,223,225-226,275,295,311,318,329-330,335,342-345,348,356,358-359,368-369,377-378,387-388,394,402-406,413,417,424,450-453,455,462-463,467,469-473,476,478-480,482,485,487-492,494-501,503-510,512-514,516-536,538-544,546-550,552-573,576-580,582-583,589-596,598
+components/lua_modules/lua_driver_i2c/src/lua_driver_i2c.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 16-18,26-27,30-33,37,39-41,48,58,64-77,92-97,100-117,124,132-134,142-145,164-165,168-172,174-182,186,188-192,196,198,208-223,229,249,267-268,316,330,334-337,340-362,365-366,368-373,376-381,422-423
+application/edge_agent/components/http_server/frontend_source/src/state/configTab.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-10,16,40,61,63,75,77,112,116-123,135,154
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_runtime.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 11-69,74-75,86,92,102,106,178,209,247,265-266,286,293,301
+components/claw_capabilities/cap_skill_mgr/skills/skills_lab_downloader/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-63
+components/lua_modules/lua_module_vision/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 14,17
+components/lua_modules/lua_module_audio/test/audio_play_file.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 5
+application/edge_agent/components/http_server/frontend_source/src/constants/externalLinks.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 42
+tools/lua_lvgl_web_sim/sim_assets/audio.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-68
+components/lua_modules/lua_module_imu/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-6,9,11-24,26,28-53
+components/lua_modules/lua_module_audio/test/audio_sample_player.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-155
+components/lua_modules/lua_module_ir/src/core/ir_frame.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-105
+application/edge_agent/components/http_server/frontend_source/src/App.tsx
+  s_3d3b1244736970::t_5c1d32efa1be7f 318-320
+  s_3d3b1244736970::t_015edbc2ef6cb3 1,8-9,14-23,73,118-127,143-146,157,248-268,270-317,321-344,346-351
+components/lua_modules/lua_module_storage/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-9
+components/lua_modules/lua_module_ir/protocols/xiaomi.96.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-13
+components/lua_modules/lua_module_board_manager/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-17,20,24-25,27-28,30-35
+components/lua_modules/lua_module_image/src/lua_image_resize.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 14,20-24,46-61,229-230
+components/claw_modules/claw_endpoint/test_host/include/freertos/task.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-3
+components/common/app_registry/test_apps/app_runtime_test/main/test_app_main.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-172
+components/common/app_claw/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-32,36-37,51-52,56-66
+components/lua_modules/lua_module_lvgl/test/lvgl_events.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 10-11,16,24
+components/lua_modules/lua_module_vision/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,9,39,46,87-99,105-121
+  s_3d3b1244736970::t_f78e5453b3cde5 122
+components/lua_modules/lua_module_ir/protocols/daikin.280.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-12
+components/lua_modules/lua_module_image/src/lua_image_convert.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 18,279-282,398-401,615-636,641,648,654-658,663,669,675-677,682-684,706-707,710,716-717,725-732,734-735
+components/lua_modules/lua_module_vision/Kconfig
+  s_3d3b1244736970::t_015edbc2ef6cb3 18-27
+docs/src/content/docs/zh-cn/reference-cap/cap-web-search.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 15,37-41,44,52-54
+application/edge_agent/components/agentnet_endpoint/idf_component.yml
+  s_3d3b1244736970::t_3d977112c67656 2
+components/lua_modules/lua_module_display/test/display_text_style_demo.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-8,17,21,27,29,32-33,39,44-45,49,52,54-56,60-61,64,67-68,73,76-79,82
+components/claw_modules/claw_event_router/test_apps/event_router_cli_test/sdkconfig.defaults
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-4
+components/common/audio_hub/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-17
+components/lua_modules/lua_module_display/skills/bdf_font_converter/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-31
+components/claw_modules/claw_skill/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 6-9
+tools/lua_lvgl_web_sim/sim/compat/esp_heap_caps.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5,9,33-38
+  s_3d3b1244736970::t_113ebe15001eb9 39
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_font.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 65,86,166,169,171,175-178,181,343-388,394-398,403-404,456-457,461,463-468,470-477,483,486-488,494-506,519,523,527-532,534,536,541,546,561-588,707,760
+components/lua_modules/lua_driver_pcnt/src/lua_driver_pcnt.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 14,17,27-32,35,40,55,197-200,203-204,208-210,214,217-223,226,228-229,231-232,234-245,247-255,257-258,260-266,268-277,279,357,363,365
+components/common/audio_hub/include/audio_mixer.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-64
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_parse.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 334,359-361
+components/lua_modules/lua_module_ir/lib/ir_remote.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-129
+components/claw_modules/claw_core/src/llm/backends/claw_llm_backend_openai_responses.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-986
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_core_widgets.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 87,116
+components/claw_capabilities/cap_lua/src/cap_lua.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 44-58,197,478-484,734-735,884,933-936
+  s_3d3b1244736970::t_732417a1f8eb32 937
+components/lua_modules/lua_module_environmental_sensor/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-5,7,9-10,12,15,17-26,28-35,37-40,42-47,49-50,53-91
+docs/src/content/docs/zh-cn/reference-cap/index.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 100
+components/lua_modules/lua_module_audio/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-4,6-34,36-39,41-48,51-58,61-129,132,135-153,156-160,163,165,167-175,178-191,194-203,205,207-223,227-250,253,256,259,262-263,265,267,271,274,277-279,281-293,295,297-321,324,329-330,334-336
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_symbols.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-290
+components/claw_modules/claw_core/src/claw_core_internal.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 34,43-48,50-51,68-71,86,118,130-132,161-174,217-220
+components/lua_modules/lua_module_audio/src/audio_device.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 6,8,26,28-32,34-61,63-65,68,70-103,106,108-109,111-112,114-158,163-168,171-186,190-191,196-217,225,230,235-247,259,269,281-302,319-321,329-335,345-353,363-364,377,397,399-400,427,429,431,504-505,518-530,532
+  s_3d3b1244736970::t_6976f516b42165 531
+application/edge_agent/fatfs_image/system/apps/app_store/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-15
+components/lua_modules/lua_module_audio/test/audio_device_tone.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 4
+components/lua_modules/lua_module_display/test/display_busy_contract.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-24
+components/lua_modules/lua_module_magnetometer/Kconfig
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-5,7-9,11-13
+components/lua_modules/lua_module_ir/src/json/ir_protocol_json.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-46
+components/lua_modules/lua_module_sci/test/sci_probe.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-21
+components/lua_modules/lua_module_vision/src/lua_module_vision.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 20-23,308,311-317,326-329
+components/lua_modules/lua_module_vision/src/vision_core_runtime.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-43
+components/claw_capabilities/cap_app_mgr/include/cap_app_mgr.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-18
+docs/src/content/docs/zh-cn/reference-cap/lua-modules.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,43,53,68-77,87,89,94,98,100-102,247-249,253-257,261,428,430
+components/lua_modules/lua_driver_adc/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,7,9-23,30,32,38,40-41
+components/claw_modules/claw_memory/src/claw_memory_session.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 433-452,457,588,1226,1326-1339,1853,1937,2111-2229
+components/common/app_claw/include/app_claw_hw_bridge.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-57
+components/lua_modules/lua_driver_touch/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 8
+application/edge_agent/components/http_server/frontend_source/src/i18n/zh-cn.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 4-36,43-52,80-81,180-181,190-191,236-238,321-331
+components/lua_modules/lua_module_audio/test/audio_analyzer.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 3
+components/claw_modules/claw_core/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-4,7-9
+components/claw_capabilities/cap_boards/tools/generate_board_skill.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 10,53-54,157,170,214-221,231-248,253-254,259-260
+components/common/audio_hub/src/audio_mixer.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-613
+components/lua_modules/lua_module_image/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,7-8,38,52,121-122,127-131,133,138
+components/lua_modules/lua_module_lvgl/test/lvgl_image_line.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-80
+application/edge_agent/components/http_server/frontend_source/src/pages/FilesPage.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 69-95,118-122,128-134,173,198,219,247-347,451,476,484-490,505-510,526,528-533,544,560-565,572,576-634,722,742,811,842
+components/common/app_claw/app_claw_hw_bridge.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-335
+tools/lua_lvgl_web_sim/sim/sim_esp_compat.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5,47,70,339-357,373,396-403,413-416,442-448,453,458,488,493,505-511,710-712,741,792-800,822,867-903,961-1029
+components/claw_capabilities/cap_scheduler/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-9,11
+docs/src/content/docs/en/reference-cap/index.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 100
+components/claw_capabilities/cap_skill_mgr/src/cmd_cap_skill.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 15,19-21,23,25-26,28-30,35,43-46,50-51,55,61-62,66
+components/lua_modules/lua_module_vision/test/espdet_face.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-148
+components/claw_modules/claw_manager/test_apps/agent_mgr_runtime_test/sdkconfig.defaults
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-4
+application/edge_agent/fatfs_image/storage/skills/light_switch/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/claw_modules/claw_core/src/llm/claw_llm_http_transport.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 12-14,23,31,33,182,184,187,189-190,192-193,195-196,198-199,201,246-247,278-285,287-288,292-293,303-307,318-322,327,329,334,357-479
+  s_3d3b1244736970::t_6e6deda7b920b3 480
+components/common/audio_playback/src/audio_playback.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-418
+components/common/app_claw/app_capabilities.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 41,313,325-327,340,352-354,626-627,646-647,707-708,710-711,787,844
+components/lua_modules/lua_module_audio/src/audio_recorder.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 196,246-257,270-272,279,287,297,312,323,332,435-444,458-459
+components/lua_modules/lua_module_display/src/lua_module_display.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-13,15-16,19-21,26-31,33-35,37-41,43,45,48,50-53,56,58-60,63,65-67,70,72-75,78,80-84,87,89-93,96,98-101,104,106-128,132,134-136,139,141-143,146,148-153,156,158-169,173,175-179,181-186,188-191,193-195,198,200-203,205-210,212-214,217,219-221,225,227-233,238,240-243,245-246,252,254-257,259-316,318,322,324-326,330,332-333,336,338-348,351,353-362,365,367-373,376-377,380,382-388,391,393-394,397,399-400,403,405-406,409,411-413,416,418-422,425,427-431,434,436-440,443,445-449,452,454-458,461,463-467,471,473-477,481,483-487,491,493-497,501,503-514,516-517,520,522-532,535,537-552,554-610,614,616-625,628,630-641,643-644,647,649-659,662,664-671,673-683,685-704,710-713
+application/edge_agent/components/http_server/http_server_core.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 7,56-57,77,105,118
+components/claw_modules/claw_endpoint/src/claw_endpoint_static.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-10
+components/lua_modules/lua_module_ir/src/core/ir_fields.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-96
+pages/simulator/vite.config.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 5-9
+components/claw_modules/claw_http/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-4
+tools/lua_lvgl_web_sim/sim/lua_display_sim.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-10
+components/lua_modules/lua_module_magnetometer/src/bmm150/bmm150_backend.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 5,7,10,12-19,23,25-29,31-32,38-43,48,51,53,61,63,66-71
+application/edge_agent/fatfs_image/system/apps/app_store/scripts/store_worker.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-186
+components/claw_capabilities/cap_llm_inspect/skills/cap_llm_inspect_image/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/lua_modules/lua_module_lvgl/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 5-6,19,26
+components/lua_modules/lua_module_vision/test/espdet_camera.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-10,14
+application/edge_agent/fatfs_image/system/apps/flappybird/launcher.json
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-10
+components/lua_modules/lua_module_image/test/image_convert_cache.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 20-25,47,96,100,104,109,112,116-118,121,123,125,128-129,132,233-237,240,265-266,269-270
+components/lua_modules/lua_driver_adc/test/adc_read.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 4-5,9-35,39,45,48,56-66,68-85
+tools/lua_lvgl_web_sim/sim/audio.js
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-212
+components/claw_modules/claw_event_router/test_apps/event_router_cli_test/main/main.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 34,40-41,119-135,158,167-168
+application/edge_agent/components/http_server/frontend_source/src/components/system/ConnectionOverlay.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-62
+components/common/app_claw/app_claw.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 7,15,45-47,112-174,396,407,412,446-465,502-513,538-556,598,636,642,646,651,675-688,697,699-713,733,738,743,754,759,768,808-809,814-815,818-819,825-826,831,853-858,862,877,889,898-899,924,934-936,968-969,979,999
+components/common/audio_playback/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-4
+components/lua_modules/lua_module_ir/protocols/tcl.112.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-10
+components/lua_modules/lua_module_ir/src/lua/lua_ir_protocol.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-19
+application/edge_agent/components/http_server/frontend_source/src/constants/wechat.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-3
+components/lua_modules/lua_module_display/test/display_image_contract.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-45
+components/common/app_registry/include/app_registry.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-52
+components/claw_capabilities/cap_router_mgr/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5,7
+components/lua_modules/lua_module_ir/protocols/irext_generate.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-1530
+components/claw_modules/claw_core/src/llm/claw_llm_http_transport.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 10,16-28
+components/claw_modules/claw_event_router/src/claw_event_router.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 18,49,79,82-83,105-106,124-146,155-159,827-828,1024-1025,1096,1114-1122,1124-1125,1129-1131,1133-1134,1136-1139,1141-1148,1150-1151,1157-1210,1868-1869,1895,1907-1908,1911-1912,1918-1966,2219-2227,2489-2493,2513-2514,2521-2523,2527-2529,2600,2611-2621,2630-2632,3017,3041,3145-3156
+components/lua_modules/lua_module_imu/test/imu_read.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 32
+components/claw_modules/claw_endpoint/test_host/include/esp_http_client.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-33
+components/lua_modules/lua_module_ir/protocols/gree.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-13
+docs/src/content/docs/zh-cn/reference-project/boot-and-runtime.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 82,113,128-131
+application/edge_agent/components/http_server/http_server_priv.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 14-15,21,23,25-38,40,78-83
+docs/src/content/docs/en/reference-cap/implement-capability.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 280
+components/lua_modules/lua_module_display/src/display_core.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-53
+components/lua_modules/lua_module_sci/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-11
+components/lua_modules/lua_module_mqtt/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-2
+components/claw_modules/claw_core/src/llm/backends/claw_llm_backend_custom.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 13,28
+components/lua_modules/lua_module_mqtt/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5
+application/edge_agent/components/http_server/frontend_source/src/pages/WebImPage.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5,7-9,12-41,43-51,53-56,59-62,64-67,70-74,78-107,110-132,134-145,149-153
+docs/src/content/docs/en/tutorial/web-config.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 50-51,53-56,59,150,152-153
+components/lua_modules/lua_module_ble/skills/ble/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+.agents/design.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 17-18
+components/lua_modules/lua_module_button/src/lua_module_button.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 18,28,36,41-47,50-53,56-74,108,110-113,119,121-122,126,130,141-143,153-155,157,177-183,185-187,189-193,195-202,204-210,216-217,219,226,232,237-264,289-300,302-308,310,318-319,332,340-343,349,352,369-371,385,405,425,441,459,461,467-469,507-516
+components/lua_modules/lua_module_ir/fs_image/ir/protocols.jsonl
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-58
+components/lua_modules/lua_module_magnetometer/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,5,8-12,15-18,20,22-24,26,28-69
+docs/src/content/docs/en/reference-project/console-usage.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,30,34,59,61,67,69,71-74,76-78,81-82,85,88-90,100,102-109,111-116
+pages/simulator/src/app-loader.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-98
+pages/simulator/tests/app-bootstrap.test.mjs
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-13
+tools/font_subset/subset_font.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 17,21-22,37-43,61-66,68,94-106,137-184,215-227,237-238
+components/lua_modules/lua_module_ir/src/lua/lua_module_ir.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-26
+docs/src/content/docs/zh-cn/reference-cap/implement-capability.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 280
+components/lua_modules/lua_module_imu/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 39-40
+components/lua_modules/lua_module_lvgl/test/lvgl_demos.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 39
+components/lua_modules/lua_module_ir/test/ir_protocol_register.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-216
+components/lua_modules/lua_module_vision/test/camera_qrcode.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-124
+components/lua_modules/lua_module_ir/test/ir_learn_replay.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1,8-9,13-25,28,30,34-35
+components/common/app_registry/test_apps/app_runtime_test/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-11
+components/claw_modules/claw_endpoint/test_host/test_endpoint.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-328
+components/claw_modules/claw_http/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-6
+components/lua_modules/lua_driver_uart/src/lua_driver_uart.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,14,17,21,30,33,36-49,54,130-134,172-186,188-189,191-192,331,337-339
+components/claw_modules/claw_manager/src/claw_session_catalog_priv.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-11
+components/common/app_registry/src/app_registry.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-629
+components/lua_modules/lua_module_ir/src/lua/lua_ir_device.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-391
+components/lua_modules/lua_module_delay/src/lua_module_delay.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 16,20-24,68-127,130,136-137
+docs/src/content/docs/en/reference-cap/cap-web-search.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 15,37-41,44,52-54
+components/claw_modules/claw_core/src/claw_core_control.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 26-27,39,48-49,58
+components/claw_modules/claw_core/src/claw_core_llm.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 14,19
+components/lua_modules/lua_module_http_server/src/lua_module_http_server.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 397,401-402
+docs/src/content/docs/en/reference-project/boot-and-runtime.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 82,113,128-131
+components/lua_modules/lua_module_ir/test/ir_device_smoke.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-105
+components/common/claw_hw_registry/include/claw_hw_registry.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-77
+application/edge_agent/boards/espressif/esp32_S3_DevKitC_1_N32R16V_breadboard/board_devices.yaml
+  s_3d3b1244736970::t_015edbc2ef6cb3 40
+components/claw_modules/claw_skill/test_apps/skill_runtime_test/pytest_skill_runtime.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-11
+components/claw_modules/claw_skill/test_apps/skill_runtime_test/.gitignore
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-6
+components/lua_modules/lua_module_audio/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 2-11
+components/lua_modules/lua_module_lvgl/test/lvgl_basic.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 4,12,54-62,102
+  s_3d3b1244736970::t_82233645d3fb76 103
+components/claw_modules/claw_core/src/llm/claw_llm_runtime.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 8,15-17,19,51-52
+components/common/app_claw/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 2-7,46-50,123-127,139,274-279,322,325-326
+components/lua_modules/lua_module_lvgl/test/lvgl_symbols.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-60
+tools/lua_lvgl_web_sim/sim/compat/sdkconfig.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-8
+application/edge_agent/fatfs_image/storage/skills/plan_mode/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/claw_modules/claw_manager/test_apps/agent_mgr_runtime_test/main/test_app_main.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 394,396,403,1018
+components/lua_modules/lua_module_camera/test/camera_capabilities.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 15-17,20,25,55,58,63
+tools/lua_lvgl_web_sim/sim/esp_claw_sim.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5,7-8,10,26-27,104-109,151,257,259-269,284-285,288,292-293,304,311,333-371,594-601,620,656-670,676-677,687,690-720,722-746,752-787,789-791,866-867,1021,1023-1024,1034,1048-1052,1058-1059,1061-1063,1066-1088,1102,1120-1131,1152-1170,1172,1786-1787,1872-1873,1876,1879,1889-1890,1895-1901,1910-1915
+  s_3d3b1244736970::t_0370f1cf4eb531 1916
+components/common/system_ui/src/system_ui_private.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 38,233
+components/lua_modules/lua_module_delay/test/periodic.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-12
+components/claw_capabilities/cap_im_platform/skills/cap_im_platform/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 10-11
+components/lua_modules/lua_module_image/src/lua_image_resize.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 39-41
+components/lua_modules/lua_driver_rmt/src/lua_driver_rmt.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 20,36,39,47,51,62,80,90,207-208,212,217,220-227,232-233,237,242,249-251,285-289,299,310,318,324,365-369,378,384,393,399,405,426-429,449-450
+docs/src/content/docs/en/reference-cap/lua-modules.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,43,53,68-77,87,89,94,98,100-102,247-249,253-257,261,428,430
+components/claw_modules/claw_endpoint/test_host/include/esp_crt_bundle.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-3
+application/edge_agent/main/app_fs.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-9,37-40
+  s_3d3b1244736970::t_48fad90913ad25 41
+components/common/claw_hw_registry/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-4
+components/lua_modules/lua_module_storage/test/storage_remove.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-50
+docs/src/content/docs/zh-cn/tutorial/faq.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 35,119-120
+components/lua_modules/lua_module_camera/src/lua_module_camera.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 15,19,25-113,247,257-258,301-308,419-452,456-457,464-465,471,514,582,605,643-644,662,667-668
+components/lua_modules/lua_module_lvgl/test/lvgl_widgets_test.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 32,45
+docs/src/content/docs/en/reference-core/claw-core.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 24,27-28,37-48,50
+components/common/audio_hub/src/audio_hub.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-101
+components/lua_modules/lua_module_http_server/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 82
+docs/src/content/docs/zh-cn/reference-project/dataflow-and-automation.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 91,247,250-258,261,264-265,277,279-280,292
+components/lua_modules/lua_module_imu/src/icm42670/icm42670_backend.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 37,39,45-47,52,60,62-64,66,75,77,80,99,110,112,115,140,142
+components/lua_modules/lua_module_sci/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,5,7-16,18,20,22,24,26,28,30-48,50-54,56-60
+docs/src/content/docs/en/reference-cap/cap-skill.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 2-3,9,13,15,17-22,24,26,28,30-31,34,36-40,42,44,46,48-49,52,54,56-58,60,62,64,66-67,70,72,74-76,78-80,82,84,86,88,90-96
+application/edge_agent/fatfs_image/system/apps/app_store/launcher.json
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-16
+components/lua_modules/lua_module_display/test/display_shapes.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 2,4-6,8,10-11,15-16,18,26,30,35-36,42,47-48,57,67,72-98,105,111-112,115,121,123
+components/common/app_claw/app_claw_cli.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 35,41,43,106-108,135-136,139-144,148,154,280,294,298-299,301-307,311-312,316-318,322-326,332-336,338,340-341,343-346,349-364,366-376,378-379,398,400-401,433,451,457-467,469-472,474,477
+components/claw_modules/claw_utils/src/claw_utils_file.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-96
+components/lua_modules/lua_module_display/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 5-7,15
+components/lua_modules/lua_module_imu/src/lua_module_imu_backend.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,16,19,29,34-36,38,51,63,88-90
+components/claw_modules/claw_core/src/claw_paths.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 18-19,27-28,40-63
+  s_3d3b1244736970::t_8cefc094eaba60 64
+components/claw_modules/claw_utils/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 3
+components/common/app_claw/app_lua_modules.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 83-85,104-105,491-498,547,551,676-678,697,789-791,810
+application/edge_agent/components/http_server/frontend_source/src/state/config.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-2,16-18,24-65,76,78,83,85,110-113,115,124-132,142-144,146
+components/lua_modules/lua_module_imu/src/bmi270/bmi270_backend.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 66-67,71,74-75,88,94,103,105-108,114,132,143,153,163,167,169
+docs/src/content/docs/zh-cn/reference-project/index.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 105,108,122-126,144
+components/lua_modules/lua_module_ir/Kconfig
+  s_3d3b1244736970::t_015edbc2ef6cb3 18,20-21,28-31
+components/claw_capabilities/cap_http_request/skills/cap_http_request/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/claw_modules/claw_skill/test_apps/skill_runtime_test/main/test_app_main.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-219
+components/claw_capabilities/cap_skill_mgr/src/cap_skill_mgr.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 17-18,22-27,29,36,46,52-53,59,68-73,81,86,88,90,93-96,98-99,102-103,107,109-112,115-121,123-126,129-130,136,149-162,164-165,168-172,175-188,194-198,200,203,206-207,211,213,216,218-219,223-225,230,232,234-237,239-245,247-250,254-257,259-260,262-263,265,268,270,272-276,279,281,285,289,293-299,301,304,306,310,314,318,320-323,326-345,347-349,352-357,362,364,366,370-371,373,376-377,379-381,383-384,386,389-390,393-394,396,399-400,404,406-413,416,418-425,427-432,434-440,442
+components/lua_modules/lua_module_ir/src/builtin/ir_builtin.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-22
+components/lua_modules/lua_module_mqtt/test/onenet_demo.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-123
+pages/simulator/package.json
+  s_3d3b1244736970::t_015edbc2ef6cb3 8
+components/lua_modules/lua_driver_touch/src/lua_driver_touch.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 10,16,19,24-28,75-76,90-92,94,101,161,163,165,169,173-174,178-179,183,201,206,337,339-341,344,346,351-352,358-360,451-472,500-506,516,521-533
+components/claw_modules/claw_core/src/llm/backends/claw_llm_backend_openai_compatible.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 14
+docs/src/content/docs/en/reference-project/index.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 105,108,122-126,144
+tools/lua_lvgl_web_sim/tests/display_font_contract.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-36
+components/lua_modules/lua_module_ir/src/core/ir_frame.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-46
+components/common/audio_playback/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-4
+application/edge_agent/components/http_server/http_server_webim_api.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 11-12,17-18,21-24,26,28-33,35-40,45,47-57,59,62,64-65,70-74,77,79-85,90-91,94,97-99,103-141,146-154,156-158
+components/common/system_ui/src/home_screen.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 212-224
+application/edge_agent/boards/movecall/movecall_cuican_esp32s3/sdkconfig.defaults.board
+  s_3d3b1244736970::t_015edbc2ef6cb3 14-16
+components/lua_modules/lua_module_image/src/lua_image_ppa.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-14
+components/lua_modules/lua_module_display/src/display_text.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-9,11,13-18,20-26
+components/common/display_service/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 4-6
+components/lua_modules/lua_driver_gpio/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 10,16-19,23-25
+application/edge_agent/components/http_server/frontend_source/src/components/ui/FormField.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-9,158,167,169-171,182
+components/claw_capabilities/cap_lua/src/cap_lua_internal.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 52,56,100
+pages/simulator/src/repo-provider.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 19,21,27-28,43,47,56,58,80-93
+  s_3d3b1244736970::t_4f5c6dbac9c77e 94
+components/claw_capabilities/cap_web_search/src/cap_web_search.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 22,24,30,37,41-43,49,51-59,78-86,94-96,99-101,146-147,153,169,171-173,181,192,202-208,235-241,256,259,270,274-276,282,286-302,305,311,335-336,361-366,381-383,385,394,400-413,415-416,419,451-468,471,481,486-494
+components/claw_capabilities/cap_lua/include/cap_lua.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 13,60-67,76-79,94,108-113
+  s_3d3b1244736970::t_7e118aaf29707e 114
+docs/src/content/docs/en/tutorial/skills-lab.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 27
+components/lua_modules/lua_module_display/src/display_bitmap.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-144
+components/claw_modules/claw_core/src/claw_core.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 48-52,63,142,147,179,184,356-366,368-369
+docs/src/content/docs/zh-cn/reference-cap/cap-lua.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 48,51-52,64
+application/mcp_server_point/main/main.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 200-203
+components/claw_capabilities/cap_router_mgr/src/cmd_cap_router_mgr.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 337,374,419,455,458-464
+application/edge_agent/components/http_server/frontend_source/src/i18n/en.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 2-34,41-50,78-79,182-183,192-193,241-243,328-338
+application/edge_agent/fatfs_image/storage/skills/scheduled_task/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 9-10
+tools/lua_lvgl_web_sim/esp_claw_shell.html
+  s_3d3b1244736970::t_015edbc2ef6cb3 6-8,317,458,629,708,758,817,823,849,858-869,928-929,964-965,973-977,982,1024-1027,1038-1039,1041,1043-1045,1048,1050,1053,1059-1072,1076-1080
+components/lua_modules/lua_module_display/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1,3,5,7,11-18,21,23,25,27-29,31,33,35-42,44,46,48-56,58,60,62,65-71,74-77,79,81,83,85-87,89,91,94-102,105-106,108,111-112,114-115,118,120,122,124,126,129-135,138,140-146,148,150,152,154,156,158,160,162
+components/claw_modules/claw_manager/include/claw_session_mgr.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 13,55-79,114-120
+components/lua_modules/lua_module_audio/src/audio_uri.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 34,40
+components/lua_modules/lua_module_delay/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,12-13,16-17,24-31
+components/claw_capabilities/cap_web_search/skills/cap_web_search/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 4,7-8,27-29,54
+components/lua_modules/lua_module_audio/src/audio_player.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-9,11-14,16,19,21-27,31,35-36,38,41,44-45,48,50-57,59,63-65,78,85-90,92-93,95-97,116-119,122,160-163,165,172,176,178-180,182,185,195-198,200,209-212,221-224,233-248,251
+application/edge_agent/components/http_server/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 25
+components/lua_modules/lua_module_camera/Kconfig
+  s_3d3b1244736970::t_015edbc2ef6cb3 2-7
+application/edge_agent/boards/espressif/esp_SensairShuttle/setup_magnetometer.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-96
+components/lua_modules/lua_module_audio/src/audio_sample_player.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-475
+components/lua_modules/lua_driver_gpio/src/lua_driver_gpio.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 13,15-85,117,130,142,150-151
+pages/simulator/src/style.css
+  s_3d3b1244736970::t_015edbc2ef6cb3 147,746-760
+  s_3d3b1244736970::t_114297686dde2a 761
+components/claw_capabilities/cap_scheduler/src/cap_scheduler.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 312,322,569,572,587-609,623,644,779-783,797,857-863
+components/lua_modules/lua_module_mqtt/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-221
+components/claw_modules/claw_endpoint/test_host/include/esp_timer.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-3
+components/lua_modules/lua_module_lcd/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,5,7,9,13-16
+components/lua_modules/lua_driver_rmt/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 8-9,17-20,59
+components/common/app_registry/test_apps/app_runtime_test/sdkconfig.defaults
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-10
+components/lua_modules/lua_module_camera/skills/take_picture/scripts/take_picture.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 100-102,104,108
+components/lua_modules/lua_module_ir/src/builtin/ir_builtin_tv.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-133
+application/edge_agent/components/http_server/frontend_source/src/pages/SetupWizardPage.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 18,27-29,31,69,74,92,98,103,112-113,117-118,122,126,138,150,152,162,174,186-188,198-200,210,222,224,256,261,284-285,292-334,581-584,595-597,614-621,653,658,668-679,683-685,701-706,725-727,811-812,825-827,832-834,846-847,863,935,942,1116-1126,1209-1211
+components/lua_modules/lua_driver_i2c/src/lua_driver_i2c.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 10,19-22
+  s_3d3b1244736970::t_82bbcebac1a1c1 23
+components/common/settings/include/settings_store.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 29
+components/lua_modules/lua_driver_pcnt/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 52-53
+application/edge_agent/components/http_server/frontend_source/src/components/webim/MarkdownMessage.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-146
+components/lua_modules/lua_module_lvgl/test/lvgl_touch.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-45
+components/lua_modules/lua_module_lvgl/test/lvgl_eaf.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 34,42,89
+  s_3d3b1244736970::t_47bc08e532c051 90
+components/lua_modules/lua_module_ir/src/lua/lua_ir_common.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-35
+components/lua_modules/lua_module_camera/src/camera_hal.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 99-100
+components/lua_modules/lua_module_http_server/skills/http_server_lua_demo/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+application/edge_agent/fatfs_image/system/apps/dino/scripts/dino.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-650
+components/claw_capabilities/cap_boards/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 6,8-31,38-39
+components/claw_modules/claw_core/src/claw_core_context_persist.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 68,74-75
+components/lua_modules/lua_module_lvgl/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 10,83,147,205,211,220,222,227-228,232-233,238-251,315-321,392-396,489-510,513,517-518,520
+components/claw_modules/claw_core/src/llm/backends/claw_llm_backend_openai_compatible.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 18,273,275,281,295,340-341,454-455
+  s_3d3b1244736970::t_d306e137f39ff8 20,214,217,297-298,302,305,499
+application/edge_agent/components/http_server/frontend_source/src/state/webim.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-171
+components/claw_modules/claw_core/src/claw_core_events.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 46,189,215-229
+components/claw_modules/claw_memory/include/claw_memory.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 13,23,28,87-97
+components/claw_capabilities/cap_app_mgr/src/cap_app_mgr.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-156
+components/common/skill_builder/COMPONENT_SKILL_BUILD.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-45
+components/lua_modules/lua_module_ir/src/json/ir_protocol_json.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-559
+components/claw_capabilities/cap_lua/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-10,12,16,18
+docs/src/content/docs/zh-cn/reference-cap/cap-skill.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 2-3,13,15,17-22,24,26,28,30-31,34,36-40,42,44,46,48-49,52,54,56-58,60,62,64,66-67,70,72,74-76,78-80,82,84,86,88,90-96
+components/common/system_ui/include/system_ui.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 22
+components/common/display_service/include/display_service.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 14,28-43,56,59,61,63,65,67,69-71,81-82,89,92,94-99,101-104,128,131-132,139-143
+application/edge_agent/boards/espressif/esp_vocat_board_v1_2/sdkconfig.defaults.board
+  s_3d3b1244736970::t_015edbc2ef6cb3 13
+components/lua_modules/lua_module_image/src/lua_image.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 728,730,735,783-812,823
+components/lua_modules/lua_module_ir/protocols/aux.electra.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-11
+components/lua_modules/lua_module_ir/protocols/midea.coolix.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-11
+pages/simulator/scripts/copy-runtime.mjs
+  s_3d3b1244736970::t_015edbc2ef6cb3 10
+application/edge_agent/boards/movecall/movecall_moji_esp32s3/sdkconfig.defaults.board
+  s_3d3b1244736970::t_015edbc2ef6cb3 14-16
+components/claw_modules/claw_skill/test_apps/skill_runtime_test/partitions.csv
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5
+components/common/audio_hub/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-8
+application/edge_agent/boards/espressif/esp32_S3_DevKitC_1/sdkconfig.defaults.board
+  s_3d3b1244736970::t_015edbc2ef6cb3 9
+application/edge_agent/components/http_server/frontend_source/src/pages/ImPage.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 23-24,185,191,341,371-380,434-435,502,524-528,619-626
+  s_3d3b1244736970::t_d8427bdd019f39 627
+components/claw_capabilities/cap_lua/src/cap_lua_runtime.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 8,16,19-21,27-29,40-43,46-179,206,358-379,532-548,551-552,559,569-570,572,578-603,607-608,613-614,618-619,625-626,629,631,634,639-640,642,650-651,653,656-658,661-664,667-671,673-676
+components/claw_modules/claw_core/src/llm/backends/claw_llm_backend_anthropic.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 20,706,708,714,728,733,774-775,901-902
+components/lua_modules/lua_module_environmental_sensor/src/lua_module_environmental_sensor.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 14-16,19-22,29-30,33-34,36-43,45,47-52,55-58,61-62,64,66-70,72-74,77,79-81,84,86-94,97,99-101,104,134,137,139,141,152,164,166-167,171,173-177,183-185,191-192,199,206,215,242,255,268,281,291-329,331-335,337,350,384,388,391-402,408-410,476,489-490,492,503,507-510,569,571-577,580-587,590-591,594,599
+pages/simulator/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1,3,5-13,16-24,27,29,35,37-46,48-51
+application/edge_agent/boards/espressif/esp_vocat_board_v1_2/board_devices.yaml
+  s_3d3b1244736970::t_015edbc2ef6cb3 148-149
+components/lua_modules/lua_module_audio/src/audio_private.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 15-16,20,41-42,53,67-69,72,95,101-108,145-156,163,166-167,199-208
+application/edge_agent/components/http_server/http_server_config_api.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 54,62,79-80,184-199,201-274,300-307,428,433-439,443-447,470-476,492,512-517
+  s_3d3b1244736970::t_5c1d32efa1be7f 200,477
+components/lua_modules/lua_module_image/test/image_resize.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 20-25,43,69-71,74,76,78,81-82,85,95-96,149,151-152,154-155,158-163,165,168-172,175,197-198,201-202
+components/lua_modules/lua_driver_touch/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 9-10,17,23,44,51-52
+components/lua_modules/lua_module_ir/protocols/hisense.kelon168.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-10
+components/claw_modules/claw_manager/include/claw_agent_mgr.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 48,79-94,98-102
+components/claw_modules/claw_core/src/llm/claw_llm_runtime.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 18,41,46,55,60,70,74-75,83-120,135,188-199,201,252
+components/lua_modules/lua_module_camera/skills/take_picture/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 4,7-8,15,17
+components/claw_modules/claw_core/include/claw_core.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 62-73,146-147,152,212-228
+  s_3d3b1244736970::t_ecd3b72d6f8600 61
+components/claw_modules/claw_skill/src/claw_skill.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 13,15,17,22-23,25,33-35,54-58,67-70,77,82-146,250-255,459-464,471-485,488-491,493,496-497,499-500,502-503,505,507-519,521-525,597-598,669,707,722,736,742-743,760,763-764,777,780-781,785,789,793,798,803,836,864-865,869-870,879,899-903,911,913-919,932-933,935,937,939-944,947-948,950-951,1007,1070,1075-1081,1095-1098,1100,1106-1112,1115-1116,1119-1120,1124-1126,1128-1129,1131-1133,1135,1137,1139,1142-1147,1149,1151,1158-1160,1195,1197-1198,1200-1204,1207,1223-1226,1233,1240,1245,1276-1280,1314-1318,1351-1354,1357,1362,1368,1376,1378,1382-1390,1393-1399,1410,1428-1430,1434,1442,1445-1446,1449,1478,1480-1492,1495,1497-1514,1516-1525,1528-1545,1547-1549,1551-1552,1554-1560,1562-1574,1576-1592,1595-1598,1600-1620,1622-1630,1632-1647,1674-1678,1688,1692,1700-1710,1732,1737-1740,1742,1751,1758,1766,1772,1775-1780,1783-1784,1787-1797,1802-1803,1809-1810
+components/common/app_registry/test_apps/app_runtime_test/partitions.csv
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5
+components/claw_modules/claw_endpoint/test_host/include/esp_err.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-14
+components/lua_modules/lua_module_display/src/display_dirty.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 8,12,14-34,37,40-45,48,50-53,56,59,62-74,76-77,81-89,91-93
+application/mcp_server_point/main/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 4,39-43
+components/lua_modules/lua_module_environmental_sensor/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 4-9
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_complex_widgets.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 888-891,1071-1074,1154-1157,1220-1223,1239-1242,1256-1259,1273-1276
+components/lua_modules/lua_module_vision/test/motion_detect.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 37-39,42,44
+components/lua_modules/lua_module_knob/src/lua_module_knob.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 6,10,17,19,23-25,28-30,34-41,43-52,54,57,59-60,65,67-69,72,74-76,79-80,82-87,89,92,94-97,100,102-107,109-111,113-119,122,124-126,131-136,138-163,165,168-170,176-177,183-187,192-205,208-211,217-219,226-227,229,231-233,240-247,257-266,268-284,286,294-297,300,304
+components/lua_modules/lua_module_thread/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-4,48,53
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_value.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 56-80,127,130
+components/claw_capabilities/cap_skill_mgr/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5,7
+components/lua_modules/lua_module_ir/src/core/ir_layout.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-84
+components/claw_modules/claw_core/src/claw_core_messages.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 28-35,95-97,101-102,105,111,115-121,126,131-133,135,140-142,145-146,149,153-154,156,159-160,162,164,166,172-174,180-181,190-198,209-241,256-257,259-264,268-269,275,283-285,287-289,291-292,462-475
+  s_3d3b1244736970::t_3ffe60fe9c704b 476
+components/claw_capabilities/cap_llm_config/include/cap_llm_config.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 22,30
+components/lua_modules/lua_module_display/src/display_core.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-273
+components/lua_modules/lua_module_ir/src/lua/lua_ir_device.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-19
+components/lua_modules/lua_module_ir/src/lua/lua_module_ir.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-20
+components/lua_modules/lua_module_magnetometer/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-2,5,9,13,17-20,23-29
+  s_3d3b1244736970::t_fa6259164fe25c 30
+components/claw_capabilities/cap_skill_mgr/include/cap_skill_mgr.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 14
+components/lua_modules/lua_module_magnetometer/src/qmc6309/qmc6309_backend.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 5,11,13-14,16,19,21-23,25-41,46-52,54-59,65,68,70,78-82
+components/lua_modules/lua_driver_ledc/src/lua_driver_ledc.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-20
+components/lua_modules/lua_module_magnetometer/src/lua_module_mag_backend.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,12,14-17,21-22,27-30,33,35,38-40
+components/claw_capabilities/cap_skill_mgr/skills/skills_lab_downloader/scripts/download_package.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-200
+components/common/display_service/src/display_service.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 16,33,35-41,67-73,80,83-88,95-98,105-106,111,142,146-224,257-262,359-364,366-381,525-553,555-559,561-564,566-584,586,617-637,675,677-679,683-684,705-712,719,738-744,757-760,768-769,771,824,952-964,979,983-1000,1021-1045,1047,1049-1062,1280-1287,1294-1296,1314-1403,1410,1418-1419,1421,1423-1435,1437
+application/edge_agent/boards/espressif/esp_Ditto/board_devices.yaml
+  s_3d3b1244736970::t_015edbc2ef6cb3 123-124
+application/edge_agent/components/http_server/frontend_source/src/components/system/SearchFields.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-59
+application/edge_agent/components/http_server/frontend_source/src/pages/LlmPage.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 31,35,46-47,50-51,56,61,74,87,89,100,113,126-128,139-141,152,165,167,197,202,251,256,267,272,291,296,306,310,327,329-334,369-373,379-380,450-454,488-493,523
+application/edge_agent/fatfs_image/system/apps/app_store/scripts/app_store.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-697
+components/lua_modules/lua_module_display/test/display_benchmark.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-269
+components/common/lua_module_builder/tools/sync_lua_module_docs.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 76
+components/lua_modules/lua_module_storage/src/lua_module_storage.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 15,20-23,124-159,166,168-170,312-324,326-368,370-373,375-420,448-449,465-531,553-554,559-562
+application/edge_agent/components/http_server/http_server_status_api.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 23
+components/common/app_registry/test_apps/app_runtime_test/.gitignore
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-6
+components/lua_modules/lua_module_magnetometer/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-9
+application/mcp_server_point/sdkconfig.defaults
+  s_3d3b1244736970::t_015edbc2ef6cb3 69-70
+application/edge_agent/components/http_server/http_server_json.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 20-30
+application/edge_agent/main/main.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 7,39,139,149,289-291,293-350,352-382,388-396,417-418,426-428,475-477,490
+tools/font_subset/fa_icons.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-225
+components/common/audio_hub/include/audio_capture.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-74
+components/lua_modules/lua_module_ir/protocols/irext_profiles.json
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-67
+application/edge_agent/components/agentnet_endpoint/agentnet_endpoint.c
+  s_3d3b1244736970::t_5c1d32efa1be7f 975
+  s_3d3b1244736970::t_21d655032344ce 981-982,993,1005
+  s_3d3b1244736970::t_39b62ba9a0c82b 1367
+components/claw_modules/claw_manager/src/claw_session_catalog.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-364
+components/lua_modules/lua_module_display/src/display_dirty.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,22-32
+components/lua_modules/lua_module_ir/src/json/ir_protocol_dir.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-261
+application/edge_agent/boards/agentnet/agentnet_s3_n16r8/sdkconfig.defaults.board
+  s_3d3b1244736970::t_cf1880219c9d73 13-14
+components/lua_modules/lua_driver_ledc/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-11
+components/lua_modules/lua_module_ir/src/lua/lua_ir_frame.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-190
+components/common/skill_builder/skills/skill_creator/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 4,7-10,17,19,21,23,25,27-29,31,33,35-38,40,42,44,46,48,50,54,56,62,64,66-71,74,77,79,81,83,86,89
+pages/simulator/src/runtime-host.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-2,15-17,41,43,52,54,62-63,77-78,83-96,100,109-115,117,120-121,124-128,130-132,139-140
+tools/lua_lvgl_web_sim/sim/lua_display_sim.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-516
+components/claw_modules/claw_endpoint/src/claw_endpoint_static.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-115
+components/claw_capabilities/cap_app_mgr/skills/app_creator/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-67
+components/common/lua_module_builder/tools/sync_lua_module_resources.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 13,23-24,51-53,87-107,115-116,121-123,125-127,129-131
+application/edge_agent/boards/movecall/movecall_moji2_esp32c5/sdkconfig.defaults.board
+  s_3d3b1244736970::t_015edbc2ef6cb3 13-15
+application/edge_agent/boards/espressif/esp_vocat_board_v1_2/setup_device.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 227
+tools/lua_lvgl_web_sim/sim/compat/cap_lua.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-5,9-10,14-15,19-20
+application/edge_agent/main/app_fs.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 264-273
+components/common/lua_module_builder/cmake/lua_sync.cmake
+  s_3d3b1244736970::t_015edbc2ef6cb3 15-16,26-32,41
+components/lua_modules/lua_module_mqtt/test/mqtt_server.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-83
+components/lua_modules/lua_driver_touch/skills/read_touch/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/lua_modules/lua_module_ir/src/core/ir_layout.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-344
+application/edge_agent/sdkconfig.defaults
+  s_3d3b1244736970::t_015edbc2ef6cb3 25-26,87-88,121,124
+components/lua_modules/lua_module_fuel_gauge/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 26,36-39,53
+application/edge_agent/boards/espressif/esp_Ditto/sdkconfig.defaults.board
+  s_3d3b1244736970::t_015edbc2ef6cb3 15
+components/lua_modules/lua_module_led_strip/src/lua_module_led_strip.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,21,106,108-110,113-119,183-185,217-223,225
+application/edge_agent/components/http_server/frontend_source/src/pages/WebReqPage.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,14,23-24,30-31,55
+components/claw_modules/claw_memory/skills/memory_ops/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/lua_modules/lua_module_imu/Kconfig
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-5,7-9,11-13
+components/claw_modules/claw_cap/include/claw_cap.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 103-107,158-159,161-165
+  s_3d3b1244736970::t_21d655032344ce 153
+components/lua_modules/lua_module_audio/src/audio_lua_utils.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 189
+components/claw_modules/claw_core/include/claw_paths.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,30-39,66-81
+  s_3d3b1244736970::t_3aa04a8af07a91 82
+components/lua_modules/lua_module_ir/src/lua/lua_ir_protocol.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-607
+components/common/system_ui/src/launcher.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 14,311,328,331,335,342-344,347-348,354-357,361-363,367-369,386,388,392
+components/lua_modules/lua_module_ir/test/ir_codec.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-143
+components/claw_modules/claw_endpoint/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-12
+tools/lua_lvgl_web_sim/tests/display_contract.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-45
+AGENTS.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 65,75,80,84,91-95
+components/lua_modules/lua_module_mqtt/src/lua_module_mqtt.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-985
+docs/src/content/docs/en/reference-cap/cap-lua.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 48,51-52,64
+components/lua_modules/lua_module_camera/test/camera_capture.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 16-18,22-23,25
+components/lua_modules/lua_module_knob/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 8
+components/lua_modules/lua_module_ble/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 40,163-164,167
+components/claw_modules/claw_endpoint/include/claw_endpoint.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-155
+components/lua_modules/lua_module_vision/src/qrcode_detect.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-224
+components/lua_modules/lua_module_board_manager/test/display_shape_geometry.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-65
+components/lua_modules/lua_module_display/skills/bdf_font_converter/scripts/bdf_to_dfn.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-202
+components/lua_modules/lua_module_audio/test/audio_play_https.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 5
+docs/src/content/docs/en/tutorial/faq.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 35,119-120
+docs/src/content/docs/zh-cn/tutorial/web-config.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 50-51,53-56,59,150,152-153
+components/lua_modules/lua_driver_mcpwm/test/mcpwm_api_coverage.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1,101-125,170-173,201-215
+components/common/app_claw/include/app_claw.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 12,30,38,52-53,58,71,75-77
+components/lua_modules/lua_module_storage/test/storage_remove_tree.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-41
+components/common/audio_hub/src/audio_memory.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-52
+components/common/lua_module_builder/skills/lua_package_authoring/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-86
+components/lua_modules/lua_module_display/test/display_pixels_demo.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 2-14,16-33
+components/lua_modules/lua_module_display/test/display_bdf_font_contract.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-107
+components/claw_modules/claw_event_router/include/claw_event_router.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 30-31,111
+components/claw_modules/claw_manager/src/claw_session_mgr.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 9-10,25-71,339-347,349,700-702,704,1266-1309,1434-1470
+codespell-ignore-list
+  s_3d3b1244736970::t_015edbc2ef6cb3 8,24
+components/common/app_registry/test_apps/app_runtime_test/pytest_app_runtime.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-11
+components/claw_modules/claw_core/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 19,32-33
+components/lua_modules/lua_module_ir/src/core/ir_protocol.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-156
+components/lua_modules/lua_module_display/src/display_text.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8,10-11,14-22,26-32,34-47,49-58,60,63,65,68,70,73,75,78,80-87,89,92,94-97,99-102,104-108,110-115,117-141,143-144,146,148-155,157-158,160-162,165,167-190,192-215,218-228,230-241,243-248,251,253-265,267-268,270-294,298,300-308,310-314,316-345,347-356,358,361,363-382
+components/claw_modules/claw_manager/src/claw_agent_mgr.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 111,116,174,179,187,330,335,337,342,344-345,353,358,466,471,485,490,492-493,501,506,512,517,521,526,531,536,556,561,700-706,723-725,728,735,737-759,810,818-820,825-828,836,843,849,870-871,876-880,904,924-937,1026,1122,1128-1134,1418-1474
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_methods.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 42-44,123,287-300,320-321
+components/claw_capabilities/cap_lua/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 2-4
+components/common/audio_hub/src/audio_memory.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-47
+pages/simulator/src/params.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 6-12,15,24,26-27,33
+components/claw_capabilities/cap_web_search/include/cap_web_search.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 15-17
+components/lua_modules/lua_module_vision/src/color_detect.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-663
+pages/simulator/tests/audio.test.mjs
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-72
+components/claw_modules/claw_skill/test_apps/skill_runtime_test/sdkconfig.defaults
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-10
+components/lua_modules/lua_module_storage/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 3-27,30,34,39-41
+application/edge_agent/components/http_server/http_server_files_api.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 15-17,172,196,200-209,212-213,215,217-218,224-232,236-240
+docs/src/content/docs/zh-cn/reference-project/console-usage.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 3,30,34,59,61,67,69,71-74,76-78,81-82,85,88-90,100,102-109,111-116
+components/common/settings/settings_store.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 195-217
+components/common/system_ui/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 13,20
+application/edge_agent/components/http_server/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-9
+components/claw_capabilities/cap_lua/src/cap_lua_hw.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-97
+components/lua_modules/lua_module_ble_hid/README.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 22
+components/lua_modules/lua_module_ir/src/builtin/ir_builtin_aircon.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-598
+components/lua_modules/lua_module_ir/test/ir_json_protocols.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-92
+docs/src/content/docs/zh-cn/reference-project/skills.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 21,29,37
+components/lua_modules/lua_module_display/src/display_color.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 12-16,20-26,36-39,47-48
+components/claw_modules/claw_http/src/claw_http.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-108
+application/edge_agent/boards/community/anyboard/board_devices.yaml
+  s_3d3b1244736970::t_015edbc2ef6cb3 17
+components/common/app_claw/include/app_storage_paths.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 27-28,31,33
+application/edge_agent/components/http_server/frontend_source/src/pages/BasicPage.tsx
+  s_3d3b1244736970::t_015edbc2ef6cb3 144-147,181,233,236
+components/common/claw_hw_registry/src/claw_hw_registry.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-517
+components/common/system_ui/src/vibration_feedback.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-10,15,27-28,39-51,73-76,81,85-100,105,109,113-115,126,132-133,171-192
+components/lua_modules/lua_module_ir/src/core/ir_fields.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-117
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_object.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 7,32-46,72,116,127-157,160-168,170-181,184,206-208,264-314,323-324,326-327
+components/lua_modules/lua_module_lvgl/test/lvgl_ttf_font.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 5,31,90
+  s_3d3b1244736970::t_0ff0154596fe99 91
+components/lua_modules/lua_module_mqtt/src/lua_module_mqtt.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-12
+components/lua_modules/lua_driver_adc/src/lua_driver_adc.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 9,16,21-22,25-26,28-35,38-39,42,45-46,51,53,56-57,59,62,64-74,76-82,89,93,95-118,120,125,128-139,143,151-165,167,170,173,176-178,180-183,185,187,194,200-245,248-253,263-264,267-268,273-280,282-292,298-310,313-315,330,333-341,343-347,351-363,369,378-379,383-404,408,415-425
+tools/font_subset/lvgl_symbols.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1
+application/edge_agent/components/http_server/frontend_source/src/api/client.ts
+  s_3d3b1244736970::t_015edbc2ef6cb3 21,29,44-45,65,73,90-96,102-134,140,232,238,245,497-534
+components/common/system_ui/idf_component.yml
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/claw_modules/claw_memory/src/claw_memory_utils.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 171-173
+components/claw_modules/claw_memory/skills/profile_memory_ops/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+application/edge_agent/boards/espressif/esp32_S3_DevKitC_1_breadboard/board_devices.yaml
+  s_3d3b1244736970::t_015edbc2ef6cb3 40
+components/lua_modules/lua_module_board_manager/Kconfig
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-31
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_private.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 11,155,185-192,195,236,244,263,271,286,311-313,323-325,330-339
+components/lua_modules/lua_module_environmental_sensor/test/environmental_read.lua
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-2,5,7-11,13-15,18-21,23-30
+components/lua_modules/lua_module_lcd/src/lua_module_lcd.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 571-572
+application/edge_agent/boards/espressif/esp_Ditto/setup_magnetometer.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-52
+components/claw_modules/claw_skill/test_apps/skill_runtime_test/main/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-14
+docs/src/content/docs/en/reference-project/skills.mdx
+  s_3d3b1244736970::t_015edbc2ef6cb3 21,29,37
+components/lua_modules/lua_module_lvgl/src/lua_lvgl_image.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-123
+components/claw_capabilities/cap_skill_mgr/skills/skills_lab_search/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-122
+components/claw_modules/claw_skill/test_apps/skill_runtime_test/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-14
+components/lua_modules/lua_module_ble_hid/skills/ble_hid/SKILL.md
+  s_3d3b1244736970::t_015edbc2ef6cb3 7-8
+components/common/audio_playback/include/audio_playback.h
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-70
+components/common/app_registry/test_apps/app_runtime_test/main/CMakeLists.txt
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-12
+components/lua_modules/lua_module_image/src/lua_image_ppa.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 1-226
+components/lua_modules/lua_module_lvgl/src/lua_module_lvgl.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 46-47
+  s_3d3b1244736970::t_cacfb94467e886 48
+components/common/lua_module_builder/tools/lua_sync_common.py
+  s_3d3b1244736970::t_015edbc2ef6cb3 133,136-137,156-159
+components/common/system_ui/src/system_ui.c
+  s_3d3b1244736970::t_015edbc2ef6cb3 22,242,246,249-250,252-255,260-261,281-282,305-308,315-320,360,397-399,439-447
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.4",
+  "base_commit_sha": "4764ee1b1b43ec108376710bb4f641d6daf26af4",
+  "prompts": {},
+  "sessions": {
+    "s_3d3b1244736970": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a11023-7943-71c3-8c9e-c2fb07130c59",
+        "model": "gpt-6-astra"
+      },
+      "human_author": "qifeng.xqf <qifeng.xqf@antgroup.com>"
+    }
+  }
+}
